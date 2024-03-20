@@ -1,0 +1,2 @@
+# exerciciosParadigmas
+java sucks
