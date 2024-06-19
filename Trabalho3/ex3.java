@@ -48,7 +48,7 @@ public class ex3{
         double n1, n2, n3;
         Collection<Aluno> alunos = new ArrayList<>();
         Scanner s = new Scanner(System.in);
-        for(int i = 0; i < 1; i++){
+        for(int i = 0; i < 5; i++){
             System.out.print("Digite a nota 1: ");
             n1 = s.nextDouble();
             System.out.print("Digite a nota 2: ");
