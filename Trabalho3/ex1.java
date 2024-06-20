@@ -20,8 +20,8 @@ class Entrevistado{
     }
 }
 
-public class ex1{
-    public static void main(String args[]){
+public class Ex1{
+    public static void ex1(){
         Scanner s = new Scanner(System.in);
         double auxS;
         int auxF;

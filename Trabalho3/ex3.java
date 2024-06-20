@@ -43,8 +43,8 @@ class Aluno{
     }
 }
 
-public class ex3{
-    public static void main(String args[]){
+public class Ex3{
+    public static void ex3(){
         double n1, n2, n3;
         Collection<Aluno> alunos = new ArrayList<>();
         Scanner s = new Scanner(System.in);

@@ -3,8 +3,8 @@ import java.util.Collection;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class ex2{
-    public static void main(String args[]){
+public class Ex2{
+    public static void ex2(){
         Scanner s = new Scanner(System.in);
         int voto;
         Collection<Integer> votos = new ArrayList<>();
